@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -64,11 +64,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-A white circle with a dark file icon outlined in the center
-Profile Readme Generator
-Developed and maintained by Mauro de Souza
+-->
 
 <!--
 **shr-thvi/shr-thvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
